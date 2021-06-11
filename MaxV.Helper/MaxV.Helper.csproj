@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
 	  <RepositoryUrl>https://github.com/VinhLTT-INFOdation/TestCiNuget</RepositoryUrl>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <Version>1.0.4</Version>
   </PropertyGroup>
 
   <ItemGroup>
