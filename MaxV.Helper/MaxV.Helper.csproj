@@ -3,7 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
 	  <RepositoryUrl>https://github.com/VinhLTT-INFOdation/TestCiNuget</RepositoryUrl>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.7</Version>
+    <PackageTags>MaxV.Helper</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
